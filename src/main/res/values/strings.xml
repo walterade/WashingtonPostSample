@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WashingtonPostTest</string>
+    <string name="title_post_detail">Post Detail</string>
+    <string name="POSTS_URL">http://www.washingtonpost.com/wp-srv/simulation/simulation_test.json</string>
+
+</resources>
